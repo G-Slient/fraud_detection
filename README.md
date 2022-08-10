@@ -1,6 +1,6 @@
 # Fraud Detection
 
-# Problem Statement¶
+# Problem Statement
 
 ## Introduction
 
@@ -33,9 +33,9 @@ The company wants to understand the driving factors (or driver variables) behind
   3. Derived features
 
 ### 3. Data Analysis
-  1. Univariate Analysis
-     a) Analysis of Categorical variables
-     b) Analysis of Continous variables
+  1. Univariate Analysis    
+        a. Analysis of Categorical variables  
+        b. Analysis of Continous variables   
   2. Bivariate Analysis
 
 ### 4. Important driver Variables
