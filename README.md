@@ -17,6 +17,30 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 ## Business Objectives
 The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
+## Steps involved in the EDA process
+
+### 1. Data Cleaning
+  1. Inspect the null values
+  2. Inspect Duplicate records
+  3. Handling unnecessary rows/columns
+  4. Remove redundant/irrelevant features
+  5. Data type conversions
+  6. Standardizing values
+
+### 2. Data Understanding 
+  1. Checking the Correlation between the columns
+  2. Detecting Outliers
+  3. Derived features
+
+### 3. Data Analysis
+  1. Univariate Analysis
+     a) Analysis of Categorical variables
+     b) Analysis of Continous variables
+  2. Bivariate Analysis
+
+### 4. Important driver Variables
+
+### 5. Final Observations
 
 ## Contributed by:
 Team: 
